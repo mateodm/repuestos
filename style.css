@@ -1,0 +1,173 @@
+body {
+    max-width: 99.38%;
+    background-color: #f6f6f6;
+}
+
+.background {
+    background-color: #f6f6f6;
+    margin-top: 18vh;
+    width: 99.2vw;
+}
+
+header {
+    background-color: #3f51b5;
+}
+.barra_de_navegacion {
+    border: solid 0px;
+    background-color: #3f51b5;
+    color: white;
+}
+
+.buscador {
+    margin-left: 7vw;
+}
+
+.box-header {
+    background-color: #5262BC;
+    color: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 5.5vh;
+    border: solid 1px #3f51b5;
+}
+
+.header_imagen {
+    display: grid;
+    height: 11vh;
+    margin-left: 5vh;
+}
+
+.contenedor-carrito {
+    margin-left: 5vw;
+}
+
+.imagen-carrito {
+    background-color: #3f51b5;
+    height: 4.5vh;
+}
+
+.seccion-carrito {
+    margin-left: 4vw;
+    font-size: 2vh;
+}
+.card-producto:hover {
+    transform: scale(1.05);
+}
+.card-imagen {
+    height: 15vh;
+    transform: scale(0.8);
+}
+
+.card-title {
+    font-size: 1.4vh;
+}
+
+.card-body {
+    height: 14.5vh;
+}
+
+.carrito-imagen {
+    width: 5.8vw;
+}
+
+.contenedor-repuestos {
+    margin-bottom: 3vh;
+}
+
+.filtro {
+    display: none;
+}
+
+.tacho:hover {
+    opacity: 0.6;
+}
+
+.rounded-circle {
+    padding-top: 0vh;
+    padding-bottom: 0.3vh;
+    padding-left: 0.8vh;
+    padding-right: 0.8vh;
+    background-color: #f6f6f6;
+    font-size: 2vh;
+    color: #3f51b5;
+}
+
+.botonesproductos {
+    background-color: #3f51b5;
+    color: white;
+    border: solid 0px;
+    text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    text-decoration: none;
+    font-size: 2vh;
+    padding: 7px 20px;    white-space: nowrap;
+    border-radius: 100px;
+}
+
+.botonesproductos:hover {
+    opacity: 0.8;
+}
+
+.botonCategoria {
+    background-color: white;
+    color: #3f51b5;
+    border: solid 0px;
+    padding: 1vh;
+    border-radius: 6%;
+    font-size: 2vh;
+}
+
+.botonCategoria:hover {
+    opacity: 0.7;
+}
+.modal-static {
+    transform: none !important; 
+    animation-duration: 0s;
+}
+.modal-header {
+    background-color: #3f51b5;
+    color: white;
+}
+
+.modal-body {
+    background-color: #f6f6f6;
+}
+
+.modal-foot {
+    background-color: #f6f6f6;
+}
+
+.modal-total {
+    background-color: #f6f6f6;
+    border: solid 0px #f6f6f6;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5vh;
+}
+
+.mas-carrito {
+    height: 2.8vh;
+    margin-left: 0.5vh;
+    margin-bottom: 0.45vh;
+    text-decoration: none;
+
+}
+.menos-carrito {
+    height: 2.6vh;
+    margin-right: 0.5vh;
+}
+
+.mas-carrito-boton {
+    text-decoration: none;
+
+}
+
+.paginasBoton {
+    margin-left: 30vh;
+    margin-top: 0.2vh;
+}
+
+/*  */
+/*MEDIAQUERY*/

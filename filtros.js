@@ -42,6 +42,7 @@ function filtroMarca(marca) {
     restock()
     stock = stock.filter((producto) => producto.marca.toLowerCase() === marca);
     marca = stock
+    id = 1
     ubicacionProductos.innerHTML = '';
     let chequearMarca = stock.length
     paginador()

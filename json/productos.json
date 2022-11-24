@@ -45,6 +45,17 @@
     { "id": 43, "nombre": "Insignia BMW", "marca": "BMW", "categoria": "Carroceria", "codigo": "N/A", "cantidad": 1, "precio": 13200, "img": "./imagenes/insignia.jpg" },
     { "id": 44, "nombre": "Insignia BMW", "marca": "BMW", "categoria": "Carroceria", "codigo": "N/A", "cantidad": 1, "precio": 13200, "img": "./imagenes/insignia.jpg" },
     { "id": 45, "nombre": "Insignia BMW", "marca": "BMW", "categoria": "Carroceria", "codigo": "N/A", "cantidad": 1, "precio": 13200, "img": "./imagenes/insignia.jpg" },
-    { "id": 46, "nombre": "Insignia BMW", "marca": "BMW", "categoria": "Carroceria", "codigo": "N/A", "cantidad": 1, "precio": 13200, "img": "./imagenes/insignia.jpg" }
+    { "id": 46, "nombre": "Insignia BMW", "marca": "BMW", "categoria": "Carroceria", "codigo": "N/A", "cantidad": 1, "precio": 13200, "img": "./imagenes/insignia.jpg" },
+    { "id": 47, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" },
+    { "id": 48, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" },
+    { "id": 49, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" },
+    { "id": 50, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" },
+    { "id": 51, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" },
+    { "id": 52, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" },
+    { "id": 53, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" },
+    { "id": 54, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" },
+    { "id": 55, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" },
+    { "id": 56, "nombre": "Faro delantero", "marca": "Generica", "categoria": "Electronica", "codigo": "N/A", "cantidad": 1, "precio": 7500, "img": "./imagenes/50820_picture.jpg" }
+
     ]
     

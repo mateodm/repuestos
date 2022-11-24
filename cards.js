@@ -12,6 +12,7 @@ function restock() {
 
 function creadorProductos(array) {
     array = array.slice(indice, cantidadPorPagina)
+    console.log(array)
     ubicacionProductos.innerHTML = ""
     array.map((producto) => {
         const div = document.createElement("div")
@@ -68,18 +69,19 @@ function paginador() {
             indice = 0
             ubicacionProductos.innerHTML= ""
             creadorProductos(stock)
+            console.log(stock)
         }
         else if (id > 1) {
             cantidadPorPagina = id * 16
-            indice = cantidadPorPagina/2
+            indice = (id * 16) - 16
             ubicacionProductos.innerHTML= ""
             creadorProductos(stock)
+            console.log(stock)
         }
     }
     function filtrosPaginador(array, cantidad) {
         Pages = []
         ArrayPaginador(array, cantidad)
-        creadorProductos(array)
         paginador()
         stringPagina(1) 
     }
